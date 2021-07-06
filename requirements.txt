@@ -1,0 +1,4 @@
+git+git://github.com/pyrogram/pyrogram@master
+tgcrypto
+pre-commit
+aiohttp
